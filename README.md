@@ -1,2 +1,45 @@
 # readed_books
 My readed books, What I had learn, What I should learn. Note of appassionate lector
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cc00a742-2471-410c-b9e5-5adb9c3dea51" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/be43492c-ddb7-4003-bebc-37d720ac4c96" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b0e16c18-8703-482a-b95e-264de8055ee6" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ae654e1e-3a68-4c4a-b043-3373c6824695" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/79574da1-f6dd-4049-ba5e-1a3df25b825d" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/75768a16-eb9f-4aea-b6d3-1d3a9077d255" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/58159d11-28e0-4f0b-b256-ffcbf2b1095c" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d23dcfdc-0194-4d95-b301-d78f1433c796" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b4d60c92-9e4f-4eae-af8f-31839479d0d5" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4ab69ea3-a259-4503-8c59-b78f33afaaea" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2e4b0cd3-7024-4b82-9764-cba6f7cd0cad" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/bce121c0-d2e7-47eb-8363-4fbbf4991b14" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2c02a208-311c-4f8b-931b-1c678ab85880" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b154be56-538a-4140-952f-77513e75f658" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6108e117-4c58-468b-a173-e5c29ab674b0" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d2d3c4c5-11c2-4cc0-8483-b8d4446610e5" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9be985a7-b8b2-46a2-9f5a-cccc7c8f3126" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cef6072b-4193-4ab9-8fbb-b25c302de05e" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/58398760-ce12-4126-b964-e468ec7bdba4" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2d0dac15-a01b-4646-ba36-9c14b1eab534" />
+
+
+
