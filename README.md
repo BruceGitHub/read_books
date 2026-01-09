@@ -1,5 +1,6 @@
 # read_books
 My read books, What I had learn, What I should learn. Note of appassionate lector
+This isn’t an exhaustive list... I don't remember everything I read... this is an active, live collection.
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/11cf41c6-cdae-4520-aa55-9a4eb1a37664" />
 
