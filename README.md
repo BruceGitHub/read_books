@@ -1,6 +1,10 @@
 # readed_books
 My readed books, What I had learn, What I should learn. Note of appassionate lector
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/66e25388-ae13-4e7f-8910-91d4ea0f15cc" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/75b0a431-f0d7-42b5-bf36-b0635d036989" />
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cc00a742-2471-410c-b9e5-5adb9c3dea51" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/be43492c-ddb7-4003-bebc-37d720ac4c96" />
