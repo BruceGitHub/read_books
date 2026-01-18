@@ -4,13 +4,39 @@ This isn’t an exhaustive list... I don't remember everything I read... this is
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d3050bb3-ddad-4f7b-8100-91b955f95a0b" />
 
+**Title: Building Database Systems (Original: Costruire sistemi per basi di dati) - Date: 2001**
+- Author: Antonio Albano
+- Topic: A technical guide on the internal architecture of DBMS, covering storage, indexing, query optimization, and transaction management.
+<hr>
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/09da5a98-42de-40ab-a168-cde3765f7d96" />
+
+**Title: Principles of Package Design Date: 2018**
+- Author: Matthias Noback 
+- Summary: A guide to creating reusable software components by applying SOLID principles and package design patterns (cohesion and coupling) to manage complex codebases effectively.
+<hr>
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/8d47ed27-8e21-4500-871e-f0a4e3c317bd" />
 
+**Title: Programmazione nella pratica - Date: 1999**
+- Author: Brian W. Kernighan, Rob Pike
+- Summary: A classic guide to practical programming (English title: The Practice of Programming), focusing on simplicity, clarity, efficiency, and debugging.
+<hr>
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2ed4eacb-0d69-42e3-b902-92207cf381d1" />
 
+**Title: Refactoring to Patterns - Date: 2004**
+- Author: Joshua Kerievsky
+- Summary: Describes a transition-based approach to design, showing how to evolve code towards patterns through refactoring rather than implementing them upfront.
+<hr>
+
 <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/18eade4b-9e1b-4bf0-adf7-318d4fa532d2" />
+
+**Title: Agile IT Organization Design - Date: 2015**
+- Author: Sriram Narayan
+- Summary: Explores how to structure IT organizations to support digital transformation and continuous delivery, focusing on cross-functional teams, accountability, and aligning organizational design with agile delivery goals.
+<hr>
+
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/87442f42-1787-440f-92b7-0097d61e32fa" />
 
@@ -93,6 +119,5 @@ This isn’t an exhaustive list... I don't remember everything I read... this is
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/58398760-ce12-4126-b964-e468ec7bdba4" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2d0dac15-a01b-4646-ba36-9c14b1eab534" />
-
 
 
