@@ -2,6 +2,16 @@
 My read books, What I had learn, What I should learn. Note of appassionate lector
 This isn’t an exhaustive list... I don't remember everything I read... this is an active, live collection.
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d3050bb3-ddad-4f7b-8100-91b955f95a0b" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/09da5a98-42de-40ab-a168-cde3765f7d96" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/8d47ed27-8e21-4500-871e-f0a4e3c317bd" />
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2ed4eacb-0d69-42e3-b902-92207cf381d1" />
+
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/18eade4b-9e1b-4bf0-adf7-318d4fa532d2" />
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/87442f42-1787-440f-92b7-0097d61e32fa" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/11cf41c6-cdae-4520-aa55-9a4eb1a37664" />
