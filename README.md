@@ -22,12 +22,10 @@ This isn’t an exhaustive list... I don't remember everything I read... this is
 | :--- | :--- |
 | <img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/18eade4b-9e1b-4bf0-adf7-318d4fa532d2" /> | **Title: Agile IT Organization Design - Date: 2015** <br>- Author: Sriram Narayan <br>- Summary: Explores how to structure IT organizations to support digital transformation and continuous delivery, focusing on cross-functional teams, accountability, and aligning organizational design with agile delivery goals. |
 
+| | |
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/87442f42-1787-440f-92b7-0097d61e32fa" /> | **Title: The CRC Card Book - Date: 1997** <br> - Author: David Bellin, Susan Suchman Simone <br> - Summary: Provides a comprehensive guide to using Class Responsibility Collaborator (CRC) cards for object-oriented analysis and design, emphasizing collaborative team-based modeling. |
 
-
-
-
-
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/87442f42-1787-440f-92b7-0097d61e32fa" />
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/11cf41c6-cdae-4520-aa55-9a4eb1a37664" />
 
