@@ -98,8 +98,9 @@ This repository is a personal collection of my reading journey. It serves as a *
 | :--- | :--- |
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/964d9196-29b1-4adf-8178-c301be329d2e" /> | **Title: Modernizing Legacy Applications in PHP - Date: 2014** <br> - Author: Paul M. Jones <br> - Summary: Una guida pratica e metodologica che illustra come trasformare gradualmente applicazioni PHP obsolete e difficili da mantenere in sistemi moderni, testabili e ben strutturati, senza dover riscrivere l'intero progetto da zero. |
 
-
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3412edd0-63e8-48d7-a6e0-247e11a7a935" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3412edd0-63e8-48d7-a6e0-247e11a7a935" /> | **Title: CQRS: The example - Date: 2011** <br> - Author: Mark Nijhof <br> - Summary: Una guida pratica che illustra l'implementazione del pattern CQRS (Command Query Responsibility Segregation) attraverso un esempio concreto, spiegando come separare le operazioni di lettura e scrittura per gestire la complessità e scalabilità dei sistemi software. |
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/208e81f1-d3d6-4b6d-9d0b-780e45e67bb3" />
 
