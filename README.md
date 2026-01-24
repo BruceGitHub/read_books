@@ -102,7 +102,9 @@ This repository is a personal collection of my reading journey. It serves as a *
 | :--- | :--- |
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3412edd0-63e8-48d7-a6e0-247e11a7a935" /> | **Title: CQRS: The example - Date: 2011** <br> - Author: Mark Nijhof <br> - Summary: Una guida pratica che illustra l'implementazione del pattern CQRS (Command Query Responsibility Segregation) attraverso un esempio concreto, spiegando come separare le operazioni di lettura e scrittura per gestire la complessità e scalabilità dei sistemi software. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/208e81f1-d3d6-4b6d-9d0b-780e45e67bb3" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/208e81f1-d3d6-4b6d-9d0b-780e45e67bb3" /> | **Title: Growing Object-Oriented Software, Guided by Tests - Date: 2009** <br> - Author: Steve Freeman, Nat Pryce <br> - Summary: Questo testo fondamentale descrive l'applicazione pratica del Test-Driven Development (TDD) attraverso un esempio reale, mostrando come i test possano guidare la progettazione di sistemi orientati agli oggetti complessi, mantenendoli flessibili e manutenibili. |
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b0e16c18-8703-482a-b95e-264de8055ee6" />
 
