@@ -60,7 +60,8 @@ This repository is a personal collection of my reading journey. It serves as a *
 
 |||
 | :--- | :--- |
-| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0d07f75d-0c4d-4d1a-8610-af39fb1dd4f4" /> | **Title: What Every Programmer Should Know About Object-Oriented Design - Date: 1995** <br> - Author: Meilir Page-Jones <br> - Summary: Un testo classico che espone i principi fondamentali della progettazione orientata agli oggetti, introducendo concetti come l'incapsulamento, l'ereditarietà e il polimorfismo con un approccio pragmatico per migliorare la qualità del software. |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0d07f75d-0c4d-4d1a-8610-af39fb1dd4f4" /> | **Title: What Every Programmer 
+Should Know About Object-Oriented Design - Date: 1995** <br> - Author: Meilir Page-Jones <br> - Summary: Un testo classico che espone i principi fondamentali della progettazione orientata agli oggetti, introducendo concetti come l'incapsulamento, l'ereditarietà e il polimorfismo con un approccio pragmatico per migliorare la qualità del software. |
 
 |||
 | :--- | :--- |
@@ -148,13 +149,11 @@ This repository is a personal collection of my reading journey. It serves as a *
 
 |||
 | :--- | :--- |
-| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4ab69ea3-a259-4503-8c59-b78f33afaaea" />
- | **C++ Manuale di Stile Reloaded - Date: 2005** <br> - Author: Carlo Pescio <br> - Summary: Una guida fondamentale per migliorare lo stile e la chiarezza del codice C++, approfondendo le tecniche dei programmatori professionisti e l'adeguamento agli standard ANSI/ISO. |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4ab69ea3-a259-4503-8c59-b78f33afaaea" /> | **C++ Manuale di Stile Reloaded - Date: 2005** <br> - Author: Carlo Pescio <br> - Summary: Una guida fondamentale per migliorare lo stile e la chiarezza del codice C++, approfondendo le tecniche dei programmatori professionisti e l'adeguamento agli standard ANSI/ISO. |
 
 |||
 | :--- | :--- |
-| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2e4b0cd3-7024-4b82-9764-cba6f7cd0cad" />
- | **Implementing Domain-Driven Design - Date: 2013** <br> - Author: Vaughn Vernon <br> - Summary: Una guida pratica e approfondita che spiega come applicare concretamente i principi del Domain-Driven Design utilizzando architetture moderne e pattern di implementazione reali. |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2e4b0cd3-7024-4b82-9764-cba6f7cd0cad" /> | **Implementing Domain-Driven Design - Date: 2013** <br> - Author: Vaughn Vernon <br> - Summary: Una guida pratica e approfondita che spiega come applicare concretamente i principi del Domain-Driven Design utilizzando architetture moderne e pattern di implementazione reali. |
 
 |||
 | :--- | :--- |
@@ -162,8 +161,7 @@ This repository is a personal collection of my reading journey. It serves as a *
 
 |||
 | :--- | :--- |
-| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2c02a208-311c-4f8b-931b-1c678ab85880" />
- | **Object-oriented Software Construction - Date: 1988** <br> - Author: Bertrand Meyer <br> - Summary: Un testo fondamentale che introduce i concetti chiave della programmazione a oggetti e il principio del Design by Contract. |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2c02a208-311c-4f8b-931b-1c678ab85880" /> | **Object-oriented Software Construction - Date: 1988** <br> - Author: Bertrand Meyer <br> - Summary: Un testo fondamentale che introduce i concetti chiave della programmazione a oggetti e il principio del Design by Contract. |
 
 |||
 | :--- | :--- |
@@ -179,13 +177,11 @@ This repository is a personal collection of my reading journey. It serves as a *
 
 |||
 | :--- | :--- |
-| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9be985a7-b8b2-46a2-9f5a-cccc7c8f3126" />
- | **Elegant Objects Vol. 1 - Date: 2016** <br> - Author: Yegor Bugayenko <br> - Summary: Una raccolta di 23 raccomandazioni pratiche per la programmazione a oggetti che sfida i paradigmi convenzionali, definendo "evil" concetti come metodi statici, riferimenti NULL, getter, setter e classi mutabili. |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9be985a7-b8b2-46a2-9f5a-cccc7c8f3126" /> | **Elegant Objects Vol. 1 - Date: 2016** <br> - Author: Yegor Bugayenko <br> - Summary: Una raccolta di 23 raccomandazioni pratiche per la programmazione a oggetti che sfida i paradigmi convenzionali, definendo "evil" concetti come metodi statici, riferimenti NULL, getter, setter e classi mutabili. |
 
 |||
 | :--- | :--- |
-| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cef6072b-4193-4ab9-8fbb-b25c302de05e" />
- | **Elegant Objects Vol. 2 - Date: 2017** <br> - Author: Yegor Bugayenko <br> - Summary: Il secondo volume prosegue la critica ai pattern OOP tradizionali, sostenendo che nomi di variabili composti, validatori, MVC, iniezione di dipendenze e persino gli algoritmi sono concetti da evitare per ottenere un codice veramente orientato agli oggetti. |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cef6072b-4193-4ab9-8fbb-b25c302de05e" /> | **Elegant Objects Vol. 2 - Date: 2017** <br> - Author: Yegor Bugayenko <br> - Summary: Il secondo volume prosegue la critica ai pattern OOP tradizionali, sostenendo che nomi di variabili composti, validatori, MVC, iniezione di dipendenze e persino gli algoritmi sono concetti da evitare per ottenere un codice veramente orientato agli oggetti. |
 
 |||
 | :--- | :--- |
