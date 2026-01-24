@@ -30,11 +30,18 @@ This isn’t an exhaustive list... I don't remember everything I read... this is
 | :--- | :--- |
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/11cf41c6-cdae-4520-aa55-9a4eb1a37664" /> | **Title: Programming Windows (Fifth Edition) - Date: 1998** <br> - Author: Charles Petzold <br> - Summary: Considerata la "bibbia" della programmazione per Windows, questa edizione si concentra sullo sviluppo di applicazioni native a 32-bit utilizzando il linguaggio C e l'API Win32. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/80a5b6d9-6e76-43c5-9083-9a094eb9ca68" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/80a5b6d9-6e76-43c5-9083-9a094eb9ca68" /> | **Title: The Rational Unified Process: An Introduction (Third Edition) - Date: 2003** <br> - Author: Philippe Kruchten <br> - Summary: Fornisce una panoramica essenziale del Rational Unified Process (RUP), spiegando come questo framework iterativo guidi lo sviluppo del software attraverso casi d'uso e un'architettura solida. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/68a088e8-9667-456f-ad9d-88f93966feb4" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/68a088e8-9667-456f-ad9d-88f93966feb4" /> | **Title: Progettare Database: Guida pratica alla creazione di database relazionali - Date: 2002** <br> - Author: Michael J. Hernandez <br> - Summary: Un manuale pratico che guida il lettore attraverso il processo di progettazione logica dei database, focalizzandosi sulle metodologie per creare strutture relazionali solide ed efficienti senza dipendere da specifici software. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/71b26d71-f653-4e77-8379-7d39b7a7ea54" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/71b26d71-f653-4e77-8379-7d39b7a7ea54" /> | **Title: C++ Tutto & Oltre - Date: 2000** <br> - Author: Jesse Liberty (Edizione italiana a cura di SAMS/Apogeo) <br> - Summary: Un corso completo sulla programmazione in C++ che guida l'utente dalle basi della sintassi fino a concetti avanzati come l'orientamento agli oggetti, la gestione della memoria e i template. |
+
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a8aacec3-0bc4-4193-924a-3a30460f8f39" />
 
