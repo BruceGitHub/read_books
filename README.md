@@ -114,11 +114,17 @@ This repository is a personal collection of my reading journey. It serves as a *
 | :--- | :--- |
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c6ff1d9c-73c7-4218-ad80-d56bad37b5b1" /> | **Title: Balancing Coupling in Software Design: Universal Design Principles for Architecting Modular Software Systems - Date: 2024** <br> - Author: Vlad Khononov <br> - Summary: Parte della "Addison-Wesley Signature Series", questo testo analizza in profondità il concetto di accoppiamento (coupling) come metrica fondamentale per la progettazione software. Il libro fornisce principi universali per bilanciare i diversi tipi di accoppiamento, permettendo di costruire sistemi modulari che siano al contempo evolvibili, manutenibili e tecnicamente solidi. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ae654e1e-3a68-4c4a-b043-3373c6824695" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ae654e1e-3a68-4c4a-b043-3373c6824695" /> | **Title: Working Effectively with Legacy Code - Date: 2004** <br> - Author: Michael C. Feathers <br> - Summary: Parte della "Robert C. Martin Series", questo volume è una risorsa indispensabile per gestire sistemi software esistenti. Introduce strategie pratiche per introdurre test in basi di codice non testate, facilitare il refactoring e migliorare la manutenibilità di sistemi complessi senza compromettere le funzionalità attuali. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f4dbbfd5-ee54-432e-854d-b608d2440234" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f4dbbfd5-ee54-432e-854d-b608d2440234" /> | **Title: Introducing EventStorming: An act of deliberate collective learning - Date: 2017 (e successive revisioni)** <br> - Author: Alberto Brandolini <br> - Summary: Questo testo introduce una tecnica di modellazione collaborativa estremamente efficace che permette di esplorare domini di business complessi. Attraverso l'uso di post-it colorati su una "superficie infinita", il libro guida team cross-funzionali nell'identificazione degli eventi di dominio, dei processi e dei problemi, accelerando l'apprendimento collettivo e facilitando la progettazione di sistemi software allineati ai requisiti di business. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/79574da1-f6dd-4049-ba5e-1a3df25b825d" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/79574da1-f6dd-4049-ba5e-1a3df25b825d" /> | **Title: Patterns of Enterprise Application Architecture - Date: 2002** <br> - Author: Martin Fowler <br> - Summary: Un testo fondamentale della "Martin Fowler Signature Series" che cataloga i pattern architetturali necessari per costruire applicazioni enterprise complesse. Il libro affronta sfide cruciali come la gestione dei dati persistenti, la logica di business e la distribuzione, fornendo soluzioni standard per mappare oggetti su database relazionali e organizzare il layer di presentazione. |
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/05d6e7b1-8e68-4e8a-8a4b-f48781891f95" />
 
