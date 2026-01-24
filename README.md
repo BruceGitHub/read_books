@@ -74,13 +74,21 @@ This repository is a personal collection of my reading journey. It serves as a *
 | :--- | :--- |
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c45fac37-a991-4d15-8dc8-712d8a99ae9f" /> | **Title: Sviluppare in PHP 7: Realizzare applicazioni web e API professionali (II Edizione) - Date: 2019** <br> - Author: Enrico Zimuel <br> - Summary: Una guida completa aggiornata a PHP 7.4 che illustra le moderne tecniche di programmazione web, focalizzandosi sulla creazione di API professionali, l'utilizzo di middleware e le best practice per lo sviluppo di applicazioni scalabili e sicure. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/66e25388-ae13-4e7f-8910-91d4ea0f15cc" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/66e25388-ae13-4e7f-8910-91d4ea0f15cc" /> | **Title: Domain-Driven Design: The First 15 Years - Date: 2019** <br> - Author: Essays from the DDD Community (curato da vari esperti della community DDD Europe) <br> - Summary: Una raccolta celebrativa di saggi che ripercorrono l'evoluzione del Domain-Driven Design, offrendo prospettive approfondite su come il DDD abbia influenzato l'architettura del software moderna, i microservizi e la modellazione dei domini complessi. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/75b0a431-f0d7-42b5-bf36-b0635d036989" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/75b0a431-f0d7-42b5-bf36-b0635d036989" /> | **Title: Recipes for Decoupling - Date: 2019** <br> - Author: Matthias Noback <br> - Summary: Una guida pratica focalizzata sull'applicazione dei principi di design per ridurre l'accoppiamento nel codice PHP, offrendo strategie concrete per scrivere software più flessibile, testabile e facile da mantenere. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cc00a742-2471-410c-b9e5-5adb9c3dea51" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cc00a742-2471-410c-b9e5-5adb9c3dea51" /> | **Title: Clean Code: A Handbook of Agile Software Craftsmanship - Date: 2008** <br> - Author: Robert C. Martin <br> - Summary: Una pietra miliare della letteratura tecnica che insegna come scrivere codice leggibile, manutenibile ed efficiente attraverso l'applicazione di principi, pattern e pratiche di "artigianato" del software. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/be43492c-ddb7-4003-bebc-37d720ac4c96" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/be43492c-ddb7-4003-bebc-37d720ac4c96" /> | **Title: Design Patterns: Elements of Reusable Object-Oriented Software - Date: 1994** <br> - Author: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides <br> - Summary: Scritto dalla celebre "Gang of Four" (GoF), questo testo fondamentale cataloga 23 modelli di progettazione che risolvono problemi ricorrenti nel software orientato agli oggetti, fornendo soluzioni riutilizzabili e un vocabolario comune per gli sviluppatori. |
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c0a5bc45-ffc5-4d0d-8e4b-796339a44f32" />
 
