@@ -90,9 +90,14 @@ This repository is a personal collection of my reading journey. It serves as a *
 | :--- | :--- |
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/be43492c-ddb7-4003-bebc-37d720ac4c96" /> | **Title: Design Patterns: Elements of Reusable Object-Oriented Software - Date: 1994** <br> - Author: Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides <br> - Summary: Scritto dalla celebre "Gang of Four" (GoF), questo testo fondamentale cataloga 23 modelli di progettazione che risolvono problemi ricorrenti nel software orientato agli oggetti, fornendo soluzioni riutilizzabili e un vocabolario comune per gli sviluppatori. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c0a5bc45-ffc5-4d0d-8e4b-796339a44f32" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c0a5bc45-ffc5-4d0d-8e4b-796339a44f32" /> | **Title: Secure by Design - Date: 2019** <br> - Author: Dan Bergh Johnsson, Daniel Deogun, Daniel Sawano <br> - Summary: Esplora come utilizzare i principi della buona progettazione software (come il Domain-Driven Design) per rendere le applicazioni intrinsecamente più sicure, eliminando intere classi di vulnerabilità attraverso una modellazione accurata del dominio e l'uso di tipi di dati sicuri. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/964d9196-29b1-4adf-8178-c301be329d2e" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/964d9196-29b1-4adf-8178-c301be329d2e" /> | **Title: Modernizing Legacy Applications in PHP - Date: 2014** <br> - Author: Paul M. Jones <br> - Summary: Una guida pratica e metodologica che illustra come trasformare gradualmente applicazioni PHP obsolete e difficili da mantenere in sistemi moderni, testabili e ben strutturati, senza dover riscrivere l'intero progetto da zero. |
+
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/3412edd0-63e8-48d7-a6e0-247e11a7a935" />
 
