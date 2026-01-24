@@ -106,9 +106,13 @@ This repository is a personal collection of my reading journey. It serves as a *
 | :--- | :--- |
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/208e81f1-d3d6-4b6d-9d0b-780e45e67bb3" /> | **Title: Growing Object-Oriented Software, Guided by Tests - Date: 2009** <br> - Author: Steve Freeman, Nat Pryce <br> - Summary: Questo testo fondamentale descrive l'applicazione pratica del Test-Driven Development (TDD) attraverso un esempio reale, mostrando come i test possano guidare la progettazione di sistemi orientati agli oggetti complessi, mantenendoli flessibili e manutenibili. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b0e16c18-8703-482a-b95e-264de8055ee6" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b0e16c18-8703-482a-b95e-264de8055ee6" /> | **Title: Refactoring: Improving the Design of Existing Code (Second Edition) - Date: 2018** <br> - Author: Martin Fowler (con contributi di Kent Beck) <br> - Summary: Questa nuova edizione del testo fondamentale sul refactoring è stata aggiornata per riflettere i cambiamenti nella programmazione moderna. Illustra come migliorare sistematicamente la struttura del codice esistente senza alterarne il comportamento esterno, rendendolo più pulito, comprensibile e facile da manutenere. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c6ff1d9c-73c7-4218-ad80-d56bad37b5b1" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c6ff1d9c-73c7-4218-ad80-d56bad37b5b1" /> | **Title: Balancing Coupling in Software Design: Universal Design Principles for Architecting Modular Software Systems - Date: 2024** <br> - Author: Vlad Khononov <br> - Summary: Parte della "Addison-Wesley Signature Series", questo testo analizza in profondità il concetto di accoppiamento (coupling) come metrica fondamentale per la progettazione software. Il libro fornisce principi universali per bilanciare i diversi tipi di accoppiamento, permettendo di costruire sistemi modulari che siano al contempo evolvibili, manutenibili e tecnicamente solidi. |
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ae654e1e-3a68-4c4a-b043-3373c6824695" />
 
