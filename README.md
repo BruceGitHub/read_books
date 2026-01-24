@@ -126,36 +126,73 @@ This repository is a personal collection of my reading journey. It serves as a *
 | :--- | :--- |
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/79574da1-f6dd-4049-ba5e-1a3df25b825d" /> | **Title: Patterns of Enterprise Application Architecture - Date: 2002** <br> - Author: Martin Fowler <br> - Summary: Un testo fondamentale della "Martin Fowler Signature Series" che cataloga i pattern architetturali necessari per costruire applicazioni enterprise complesse. Il libro affronta sfide cruciali come la gestione dei dati persistenti, la logica di business e la distribuzione, fornendo soluzioni standard per mappare oggetti su database relazionali e organizzare il layer di presentazione. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/05d6e7b1-8e68-4e8a-8a4b-f48781891f95" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/05d6e7b1-8e68-4e8a-8a4b-f48781891f95" />| **Domain-Driven Design Quickly - Date: 2006** <br> - Author: Abel Avram & Floyd Marinescu <br> - Summary: Una sintesi del libro fondamentale di Eric Evans sul Domain-Driven Design (DDD), che illustra i concetti chiave come Entities, Value Objects, Aggregates e Repositories per gestire la complessità nel software. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/75768a16-eb9f-4aea-b6d3-1d3a9077d255" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/75768a16-eb9f-4aea-b6d3-1d3a9077d255" /> | **Designing Data-Intensive Applications - Date: 2017** <br> - Author: Martin Kleppmann <br> - Summary: Un testo fondamentale che esplora i principi, gli algoritmi e i trade-off coinvolti nella progettazione di sistemi moderni, focalizzandosi su affidabilità, scalabilità e manutenibilità dei dati. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/58159d11-28e0-4f0b-b256-ffcbf2b1095c" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/58159d11-28e0-4f0b-b256-ffcbf2b1095c" /> | **Domain-Driven Design: Tackling Complexity in the Heart of Software - Date: 2003** <br> - Author: Eric Evans <br> - Summary: Focuses on matching software design to a complex domain through a model-driven approach. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d23dcfdc-0194-4d95-b301-d78f1433c796" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d23dcfdc-0194-4d95-b301-d78f1433c796" /> | **The Pragmatic Programmer - Date: 1999** <br> - Author: Andrew Hunt & David Thomas <br> - Summary: Un testo classico che offre consigli pratici e filosofici per migliorare l'efficacia, la carriera e la qualità del codice per sviluppatori software di ogni livello. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b4d60c92-9e4f-4eae-af8f-31839479d0d5" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b4d60c92-9e4f-4eae-af8f-31839479d0d5" />| **The C Programming Language - Date: 1988** <br> - Author: Brian W. Kernighan & Dennis M. Ritchie <br> - Summary: Spesso citato come "K&R", questo libro è il testo di riferimento definitivo per il linguaggio C, coprendo la sintassi, le strutture dati e la gestione della memoria nel contesto dello standard ANSI C. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4ab69ea3-a259-4503-8c59-b78f33afaaea" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/4ab69ea3-a259-4503-8c59-b78f33afaaea" />
+ | **C++ Manuale di Stile Reloaded - Date: 2005** <br> - Author: Carlo Pescio <br> - Summary: Una guida fondamentale per migliorare lo stile e la chiarezza del codice C++, approfondendo le tecniche dei programmatori professionisti e l'adeguamento agli standard ANSI/ISO. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2e4b0cd3-7024-4b82-9764-cba6f7cd0cad" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2e4b0cd3-7024-4b82-9764-cba6f7cd0cad" />
+ | **Implementing Domain-Driven Design - Date: 2013** <br> - Author: Vaughn Vernon <br> - Summary: Una guida pratica e approfondita che spiega come applicare concretamente i principi del Domain-Driven Design utilizzando architetture moderne e pattern di implementazione reali. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/bce121c0-d2e7-47eb-8363-4fbbf4991b14" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/bce121c0-d2e7-47eb-8363-4fbbf4991b14" /> | **Domain-Driven Design Distilled - Date: 2016** <br> - Author: Vaughn Vernon <br> - Summary: Un'introduzione concisa e accessibile ai concetti fondamentali del DDD, pensata per fornire rapidamente ai team le basi necessarie per iniziare a modellare domini complessi senza l'approfondimento tecnico dei volumi più voluminosi. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2c02a208-311c-4f8b-931b-1c678ab85880" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2c02a208-311c-4f8b-931b-1c678ab85880" />
+ | **Object-oriented Software Construction - Date: 1988** <br> - Author: Bertrand Meyer <br> - Summary: Un testo fondamentale che introduce i concetti chiave della programmazione a oggetti e il principio del Design by Contract. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b154be56-538a-4140-952f-77513e75f658" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b154be56-538a-4140-952f-77513e75f658" /> | **Domain-Driven Design in PHP - Date: 2017** <br> - Author: Carlos Buenosvinos, Christian Soronellas & Keyvan Akbary <br> - Summary: Una guida pratica all'applicazione dei pattern e dei principi del Domain-Driven Design specificamente nel contesto dell'ecosistema PHP. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6108e117-4c58-468b-a173-e5c29ab674b0" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6108e117-4c58-468b-a173-e5c29ab674b0" /> | **Learning Domain-Driven Design - Date: 2021** <br> - Author: Vlad Khononov <br> - Summary: Una guida moderna che insegna come allineare l'architettura del software con la strategia di business, utilizzando i pattern tattici e strategici del DDD per costruire sistemi adattabili. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d2d3c4c5-11c2-4cc0-8483-b8d4446610e5" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/d2d3c4c5-11c2-4cc0-8483-b8d4446610e5" /> | **Extreme Programming Explained: Embrace Change - Date: 2004** <br> - Author: Kent Beck with Cynthia Andres <br> - Summary: Questo libro introduce e spiega la filosofia e le pratiche dell'Extreme Programming (XP), concentrandosi su come i team di sviluppo possono gestire il cambiamento e migliorare la qualità del software attraverso feedback costanti e collaborazione. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9be985a7-b8b2-46a2-9f5a-cccc7c8f3126" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9be985a7-b8b2-46a2-9f5a-cccc7c8f3126" />
+ | **Elegant Objects Vol. 1 - Date: 2016** <br> - Author: Yegor Bugayenko <br> - Summary: Una raccolta di 23 raccomandazioni pratiche per la programmazione a oggetti che sfida i paradigmi convenzionali, definendo "evil" concetti come metodi statici, riferimenti NULL, getter, setter e classi mutabili. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cef6072b-4193-4ab9-8fbb-b25c302de05e" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/cef6072b-4193-4ab9-8fbb-b25c302de05e" />
+ | **Elegant Objects Vol. 2 - Date: 2017** <br> - Author: Yegor Bugayenko <br> - Summary: Il secondo volume prosegue la critica ai pattern OOP tradizionali, sostenendo che nomi di variabili composti, validatori, MVC, iniezione di dipendenze e persino gli algoritmi sono concetti da evitare per ottenere un codice veramente orientato agli oggetti. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/58398760-ce12-4126-b964-e468ec7bdba4" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/58398760-ce12-4126-b964-e468ec7bdba4" />| **Node.js Design Patterns - Date: 2020** <br> - Author: Mario Casciaro & Luciano Mammino <br> - Summary: Una guida completa per progettare e implementare applicazioni Node.js di livello enterprise utilizzando pattern e tecniche collaudate per massimizzarne l'efficacia. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2d0dac15-a01b-4646-ba36-9c14b1eab534" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/2d0dac15-a01b-4646-ba36-9c14b1eab534" /> | **The C++ Programming Language - Date: 1991** <br> - Author: Bjarne Stroustrup <br> - Summary: Scritto dall'ideatore del linguaggio, questa seconda edizione introduce le caratteristiche fondamentali del C++, inclusi classi, ereditarietà, template e gestione delle eccezioni. |
 
 
