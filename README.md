@@ -58,13 +58,21 @@ This repository is a personal collection of my reading journey. It serves as a *
 | :--- | :--- |
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e366ff74-6948-46b2-8a19-320261d4371b" /> | **Title: UML Components: Prima edizione italiana - Date: 2001** <br> - Author: John Cheesman, John Daniels <br> - Summary: Una guida pratica focalizzata sulla specifica di componenti software utilizzando UML, che descrive un processo passo dopo passo per identificare, definire e progettare architetture basate su componenti. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0d07f75d-0c4d-4d1a-8610-af39fb1dd4f4" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0d07f75d-0c4d-4d1a-8610-af39fb1dd4f4" /> | **Title: What Every Programmer Should Know About Object-Oriented Design - Date: 1995** <br> - Author: Meilir Page-Jones <br> - Summary: Un testo classico che espone i principi fondamentali della progettazione orientata agli oggetti, introducendo concetti come l'incapsulamento, l'ereditarietà e il polimorfismo con un approccio pragmatico per migliorare la qualità del software. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/57cd3696-9a67-4c1c-adab-0a84e304e07e" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/57cd3696-9a67-4c1c-adab-0a84e304e07e" /> | **Title: UML Progettazione a oggetti - Date: 2002** <br> - Author: Neil Ziegland <br> - Summary: Una guida pratica focalizzata sull'utilizzo del linguaggio UML per la progettazione orientata agli oggetti, ideale per chi cerca di tradurre i requisiti di sistema in modelli visuali chiari ed efficaci prima dell'implementazione. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ebbdc905-d878-4b30-ae5e-7d90ca78a9ac" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/ebbdc905-d878-4b30-ae5e-7d90ca78a9ac" /> | **Title: Progettazione a oggetti con UML - Date: 2002** <br> - Author: Meilir Page-Jones <br> - Summary: Un testo della collana Apogeo "PerCorsi di Studio" che approfondisce la metodologia di progettazione orientata agli oggetti utilizzando la notazione standard UML per la creazione di modelli software robusti. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c45fac37-a991-4d15-8dc8-712d8a99ae9f" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/c45fac37-a991-4d15-8dc8-712d8a99ae9f" /> | **Title: Sviluppare in PHP 7: Realizzare applicazioni web e API professionali (II Edizione) - Date: 2019** <br> - Author: Enrico Zimuel <br> - Summary: Una guida completa aggiornata a PHP 7.4 che illustra le moderne tecniche di programmazione web, focalizzandosi sulla creazione di API professionali, l'utilizzo di middleware e le best practice per lo sviluppo di applicazioni scalabili e sicure. |
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/66e25388-ae13-4e7f-8910-91d4ea0f15cc" />
 
