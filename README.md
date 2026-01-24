@@ -46,12 +46,17 @@ This repository is a personal collection of my reading journey. It serves as a *
 | :--- | :--- |
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/71b26d71-f653-4e77-8379-7d39b7a7ea54" /> | **Title: C++ Tutto & Oltre - Date: 2000** <br> - Author: Jesse Liberty (Edizione italiana a cura di SAMS/Apogeo) <br> - Summary: Un corso completo sulla programmazione in C++ che guida l'utente dalle basi della sintassi fino a concetti avanzati come l'orientamento agli oggetti, la gestione della memoria e i template. |
 
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a8aacec3-0bc4-4193-924a-3a30460f8f39" /> | **Title: UML 2 Manuale di Stile - Date: 2005 (Draft version 0.5c)** <br> - Author: Dott. Carlo Pescio (Eptacom Consulting) <br> - Summary: Una guida tecnica focalizzata sulle migliori pratiche e convenzioni stilistiche per la modellazione con UML 2, mirata a rendere i diagrammi più chiari, leggibili e professionali. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a8aacec3-0bc4-4193-924a-3a30460f8f39" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/03326599-4050-4aca-8db5-a3435ea748bf" /> | **Title: UML: Guida alla programmazione ad oggetti con Unified Modeling Language - Date: 2004** <br> - Author: Meilir Page-Jones (Edizione italiana a cura di Tecniche Nuove) <br> - Summary: Un testo fondamentale che introduce i concetti della programmazione orientata agli oggetti (OO) attraverso l'uso di UML, spiegando come modellare correttamente i sistemi software prima della scrittura del codice. |
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/03326599-4050-4aca-8db5-a3435ea748bf" />
-
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e366ff74-6948-46b2-8a19-320261d4371b" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e366ff74-6948-46b2-8a19-320261d4371b" /> | **Title: UML Components: Prima edizione italiana - Date: 2001** <br> - Author: John Cheesman, John Daniels <br> - Summary: Una guida pratica focalizzata sulla specifica di componenti software utilizzando UML, che descrive un processo passo dopo passo per identificare, definire e progettare architetture basate su componenti. |
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0d07f75d-0c4d-4d1a-8610-af39fb1dd4f4" />
 
