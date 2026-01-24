@@ -26,8 +26,9 @@ This isn’t an exhaustive list... I don't remember everything I read... this is
 | :--- | :--- |
 | <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/87442f42-1787-440f-92b7-0097d61e32fa" /> | **Title: The CRC Card Book - Date: 1997** <br> - Author: David Bellin, Susan Suchman Simone <br> - Summary: Provides a comprehensive guide to using Class Responsibility Collaborator (CRC) cards for object-oriented analysis and design, emphasizing collaborative team-based modeling. |
 
-
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/11cf41c6-cdae-4520-aa55-9a4eb1a37664" />
+|||
+| :--- | :--- |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/11cf41c6-cdae-4520-aa55-9a4eb1a37664" /> | **Title: Programming Windows (Fifth Edition) - Date: 1998** <br> - Author: Charles Petzold <br> - Summary: Considerata la "bibbia" della programmazione per Windows, questa edizione si concentra sullo sviluppo di applicazioni native a 32-bit utilizzando il linguaggio C e l'API Win32. |
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/80a5b6d9-6e76-43c5-9083-9a094eb9ca68" />
 
