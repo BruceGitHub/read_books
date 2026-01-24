@@ -1,6 +1,10 @@
-# read_books
-My read books, What I had learn, What I should learn. Note of appassionate lector
-This isn’t an exhaustive list... I don't remember everything I read... this is an active, live collection.
+# 📚 Reading List: What I’ve Read, What I’ve Learned, and What’s Next
+
+This repository is a personal collection of my reading journey. It serves as a **snapshot of my professional profile and interests** for peers and recruiters.
+
+> [!NOTE]
+> This is not an exhaustive list, nor is it meant to showcase "how much" I read. I don't remember every single page I've ever turned! Instead, consider this an **active, living collection**—a way to share my tastes, my learning path, and the topics I'm passionate about.
+
 
 |||
 | :--- | :--- |
