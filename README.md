@@ -60,8 +60,7 @@ This repository is a personal collection of my reading journey. It serves as a *
 
 |||
 | :--- | :--- |
-| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0d07f75d-0c4d-4d1a-8610-af39fb1dd4f4" /> | **Title: What Every Programmer 
-Should Know About Object-Oriented Design - Date: 1995** <br> - Author: Meilir Page-Jones <br> - Summary: Un testo classico che espone i principi fondamentali della progettazione orientata agli oggetti, introducendo concetti come l'incapsulamento, l'ereditarietà e il polimorfismo con un approccio pragmatico per migliorare la qualità del software. |
+| <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/0d07f75d-0c4d-4d1a-8610-af39fb1dd4f4" /> | **Title: What Every Programmer Should Know About Object-Oriented Design - Date: 1995** <br> - Author: Meilir Page-Jones <br> - Summary: Un testo classico che espone i principi fondamentali della progettazione orientata agli oggetti, introducendo concetti come l'incapsulamento, l'ereditarietà e il polimorfismo con un approccio pragmatico per migliorare la qualità del software. |
 
 |||
 | :--- | :--- |
