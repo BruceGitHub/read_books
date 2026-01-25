@@ -2,9 +2,6 @@
 
 This repository is a curated collection of the literature that has shaped my technical perspective. It is a living document of my **professional evolution**—from low-level systems programming to strategic architectural design and organizational leadership.
 
-> [!TIP]
-> **For Recruiters & Lead Engineers:** This list demonstrates a commitment to continuous learning and a deep understanding of the software lifecycle, from the 1980s foundations to 2024 architectural patterns.
-
 ---
 
 ## 🎯 Strategic Knowledge Pillars
