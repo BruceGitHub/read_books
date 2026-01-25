@@ -23,7 +23,7 @@ This repository is a curated collection of the literature that has shaped my tec
 
 ---
 
-### 🎯 Learning Goals
+### 🎯 Todo list
 - [ ] Add takeawy
 - [ ] Link to https://www.goodreads.com/shelf/show/god-to-read
 - [ ] Link amazon, leanpub etc
