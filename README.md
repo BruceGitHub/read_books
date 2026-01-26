@@ -1,7 +1,7 @@
 # 📚 My Reading Journey
 
-This repository is a curated collection of the literature that has shaped my technical perspective. It is a living document of my **professional evolution**—from low-level systems programming to strategic architectural design and organizational leadership.
-
+This repository is a curated collection of the literature that has shaped my technical perspective. It is a living document of my **professional evolution**—from low-level systems programming to strategic architectural design and organizational leadership. 
+This list is not comprehensive, but I strive to update it as often as possible
 ---
 
 ## 🎯 Strategic Knowledge Pillars
@@ -21,7 +21,7 @@ This repository is a curated collection of the literature that has shaped my tec
 ---
 
 ### 🎯 Todo list
-- [ ] Add takeawy
+- [ ] Add takeaway
 - [ ] Link to https://www.goodreads.com/shelf/show/god-to-read
 - [ ] Link amazon, leanpub etc
 
